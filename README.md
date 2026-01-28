@@ -15,16 +15,11 @@ To test the Ising model, run 'Run_Ising.m', 'Run_Ising_time.m', 'Run_Ising_compa
 To test the 1-D Ginzburg Landau model, run 'Run_1DGL_Gen.m'.
 
 
-<p align="center">
-  <img src="Figures/Screenshot 2026-01-27 at 11.37.55 PM.png" width="600">
-</p>
-
-
 ## Test your own problem
 
 You may also test you own problem using our cluster moment relaxation solver: 'OT_Moment_relax_sparse.m'
 
-Please install Mosek from: https://www.mosek.com/downloads/ 
+Please install Mosek from: https://www.mosek.com/downloads/ \\
    and SparseCoLO from http://www.opt.c.titech.ac.jp/kojima/SparseCoLO/SparseCoLO.htm 
    and add them to your MATLAB path before using this solver.
 
