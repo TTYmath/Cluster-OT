@@ -19,9 +19,10 @@ To test the 1-D Ginzburg Landau model, run 'Run_1DGL_Gen.m'.
 
 You may also test you own problem using our cluster moment relaxation solver: 'OT_Moment_relax_sparse.m'
 
-Please install Mosek from: https://www.mosek.com/downloads/ \\
-   and SparseCoLO from http://www.opt.c.titech.ac.jp/kojima/SparseCoLO/SparseCoLO.htm 
-   and add them to your MATLAB path before using this solver.
+Please install 
+   > Mosek from: https://www.mosek.com/downloads/ 
+   > SparseCoLO from http://www.opt.c.titech.ac.jp/kojima/SparseCoLO/SparseCoLO.htm 
+   > and add them to your MATLAB path before using this solver.
 
 If you use this code in academic work, please cite the following:
 
