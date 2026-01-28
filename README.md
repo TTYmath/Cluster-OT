@@ -14,6 +14,10 @@ To test the Ising model, run 'Run_Ising.m', 'Run_Ising_time.m', 'Run_Ising_compa
 
 To test the 1-D Ginzburg Landau model, run 'Run_1DGL_Gen.m'.
 
+<p align="center">
+  <img src="Cluster-OT-github/Figures/Gaussian.png" width="300">
+</p>
+
 
 ## Test your own problem
 
