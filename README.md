@@ -33,9 +33,7 @@ You may also test you own problem using our cluster moment relaxation solver: 'O
 Please install 
    > Mosek from: https://www.mosek.com/downloads/
 
-   > SparseCoLO from http://www.opt.c.titech.ac.jp/kojima/SparseCoLO/SparseCoLO.htm
-
-   > and add them to your MATLAB path before using this solver.
+   > and add it to your MATLAB path before using this solver.
 
 If you use this code in academic work, please cite the following:
 
@@ -45,7 +43,4 @@ If you use this code in academic work, please cite the following:
 - **MOSEK** (if used as the SDP solver):
   > M. Aps. Mosek optimization toolbox for matlab. User’s Guide and Reference Manual Version, 4(1):116, 2019.
 
-- **SparseCoLO** (if sparsity exploitation is enabled):
-  > Kim, S., Kojima, M., Mevissen, M. and Yamashita, M. (2011). Exploiting sparsity in linear and nonlinear matrix
-   inequalities via positive semidefinite matrix completion. Mathematical programming, 129(1), 33-68.
 
