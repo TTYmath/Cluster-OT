@@ -19,11 +19,19 @@ To test the 1-D Ginzburg Landau model, run 'Run_1DGL_Gen.m'.
 </p>
 
 <p align="center">
+  <img src="Cluster-OT-github/Figures/ggm_error_comparison.png" width="700">
+</p>
+
+<p align="center">
   <img src="Cluster-OT-github/Figures/Ising.png" width="700">
 </p>
 
 <p align="center">
   <img src="Cluster-OT-github/Figures/Ginzburg_Landau.png" width="700">
+</p>
+
+<p align="center">
+  <img src="Cluster-OT-github/Figures/gld_threeway_comparison.png" width="700">
 </p>
 
 ## Test your own problem
